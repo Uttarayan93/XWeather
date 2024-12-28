@@ -100,7 +100,7 @@ function App() {
 
       {/* Loading Message (p) */}
       {isLoading && (
-        <p style={{ marginTop: "10px", fontSize: "18px" }}>Loading data…</p>
+        <p style={{ marginTop: "10px", fontSize: "18px" }}>Loading data...</p>
       )}
 
       {/* Weather Data Cards */}
